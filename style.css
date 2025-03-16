@@ -795,7 +795,7 @@ nav{
 
 
 .sub {
-  /* display: none; */
+  display: none;
   position: absolute;
   margin-left: 100%;
   color: black;
